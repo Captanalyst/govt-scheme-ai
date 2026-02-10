@@ -1,0 +1,11 @@
+flask
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+transformers
+torch
+huggingface-hub
+pypdf
+
